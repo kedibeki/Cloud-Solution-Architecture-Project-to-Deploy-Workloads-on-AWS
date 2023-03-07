@@ -16,6 +16,7 @@ Project Background
 
 <h4>   
 I’m working for a customer that runs their workloads on premises. My customer has two workloads:
+ 
 &nbsp;
  
 A three-tier architecture composed of a frontend (HTML, CSS, JavaScript), backend (Apache Web Server and a Java application), and database (MySQL). The three-tier application hosts a dynamic website that accepts user traffic from the internet.
