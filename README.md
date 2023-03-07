@@ -29,8 +29,6 @@ A data analytics workload that runs Apache Hadoop. The analytics workload analyz
 &nbsp;
 
 These components are currently running in the data center on physical servers. Currently, if a power outage occurred in the data center, all systems would be brought offline. Because of this issue (in addition to other benefits of the cloud), My customer wants to migrate all components to the cloud and, when possible, use AWS services to replace on-premises components.
-![image](https://user-images.githubusercontent.com/107129424/223463692-67fbb61f-7d03-4769-bd97-41e88c1b5828.png)
-
 
 </h4>
 
@@ -49,8 +47,5 @@ I can use managed services and advocate for refactoring the code to take advanta
 &nbsp;
 
 Also, the data analytics solution currently runs on Hadoop and I have a requirement to spin up an Amazon EMR cluster for it. However, it’s up to me to choose which AWS services I want to use for the ingestion, storage, and visualization of data.
-![image](https://user-images.githubusercontent.com/107129424/223464313-9e578ae8-e184-4beb-a8cc-9fd5b7f2f0a5.png)
 
 </h4>
-
-
