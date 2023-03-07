@@ -8,7 +8,7 @@ Deploying Workloads on AWS
 <img src="https://github.com/kedibeki/Cloud-Solution-Architecture-Project-to-Deploy-Workloads-on-AWS/blob/main/Cover-%20Cloud%20Solution%20Architecture%20Project%20to%20Deploy%20Workloads%20on%20AWS.jpg" alt=""/>
 </p>
 
-[Click On Here For My Full Presentation](https://github.com/kedibeki/Cloud-Solution-Architecture-Project-to-Deploy-Workloads-on-AWS/blob/main/Cloud%20Solution%20Architecture%20Project%20to%20Deploy%20Workloads%20on%20AWS.pdF)
+[Click On Here For My Full Presentation](https://github.com/kedibeki/Cloud-Solution-Architecture-Project-to-Deploy-Workloads-on-AWS/blob/main/Cloud%20Solution%20Architecture%20Project%20to%20Deploy%20Workloads%20on%20AWS.pdf)
  
 <h2>
 Project Background
